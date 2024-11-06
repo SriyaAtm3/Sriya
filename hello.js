@@ -5,4 +5,6 @@ function sayHello() {
 
 module.exports = sayHello;
 
+print("Hello");
+
 //comment prod
